@@ -1,7 +1,7 @@
 # Yichao Gu
 
-I am a [Master's student]
-at [School of Computer Science, Shanghai Jiao Tong University].
+I am a Master's student
+at School of Computer Science, Shanghai Jiao Tong University.
 
 - Affiliation:  Shanghai Jiao Tong University
 - Email: gyc20031112@sjtu.edu.cn
